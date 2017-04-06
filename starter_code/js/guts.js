@@ -31,15 +31,15 @@ function power(x,y)
 
 function square_root(x)
 {
-	return(Math.sqrt());
+	return(Math.sqrt(x));
 }
 
 function logBase10(x)
 {
-	return(Math.log(x));
+	return(Math.log10(x));
 }
 
 function generateRandomNumber()
 {
-	return(Math.random(x));
+	return(Math.random());
 }
